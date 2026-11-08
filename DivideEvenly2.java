@@ -1,3 +1,6 @@
+/* Name: Riza Jane Anronio
+Course/Year/Section: BSIT NETSEC 1-1 */
+
 package helloworld.loop;
 
 public class DivideEvenly2 
